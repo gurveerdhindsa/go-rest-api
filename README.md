@@ -5,7 +5,7 @@
 
 ##  Installation
 ```
-go get github.com/gurveerdhindsa/go-rest-api-example.git
+go get 'github.com/gurveerdhindsa/go-rest-api-example'
 ```
 
 ## API
